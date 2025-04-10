@@ -1,0 +1,32 @@
+name: pyhydro
+channels:
+  - conda-forge
+dependencies:
+  - python=3.11
+  - numpy
+  - matplotlib
+  - xarray
+  - requests
+  - pandas
+  - xlrd
+  - gdal
+  - geopandas
+  - rtree
+  - descartes
+  - scipy
+  - pyproj>=2.0
+  - rasterio>=1.0
+  - rasterstats
+  - pyshp
+  - hydrofunctions
+  - jupyter 
+  - notebook
+  - jupyterlab
+  - ipykernel
+  - netcdf4
+  - pytest
+  - pip
+  - imageio
+  - openpyxl
+  - contextily
+       
