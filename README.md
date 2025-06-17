@@ -1,4 +1,4 @@
-# Physical Hydrology / Water and the Earth System
+# Physical Hydrology / Water in the Earth System
 
 **EPS 522/ENVS 423L**
 
@@ -92,7 +92,6 @@ Grade
 # Schedule
 
 | Physical Hydrology Schedule (subject to change) |     |     |     |     |
-| --- |     |     |     |     | --- | --- | --- | --- |
 | Date | &nbsp; | Topic | Reading | Due dates/notes |
 | 19-Aug | Tue | Introduction | Ch. 1 | &nbsp; |
 | 21-Aug | Thur | Working with python and git | &nbsp; | Bring laptop |
