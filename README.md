@@ -1,4 +1,4 @@
-#Physical Hydrology / Water and the Earth System
+# Physical Hydrology / Water and the Earth System
 
 **EPS 522/ENVS 423L**
 
