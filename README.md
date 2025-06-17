@@ -91,54 +91,40 @@ Grade
 
 # Schedule
 
-| Physical Hydrology Schedule (subject to change) |     |     |     |     |
-| Date | &nbsp; | Topic | Reading | Due dates/notes |
-| 19-Aug | Tue | Introduction | Ch. 1 | &nbsp; |
-| 21-Aug | Thur | Working with python and git | &nbsp; | Bring laptop |
-| &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; |
-| 26-Aug | Tue | Hydrologic Concepts | Ch. 2 | HW1 |
-| 28-Aug | Thur | Climate System | Ch. 3 | &nbsp; |
-| &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; |
-| 2-Sep | Tue | Climate System | Ch. 3 | HW2 |
-| 4-Sep | Thur | Precipitation | Ch. 4 |     |
-| &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; |
-| 9-Sep | Tue | Precipitation | Ch. 4 | HW 3 |
-| 11-Sep | Thur | Snow and snowmelt processes | Ch. 5 |     |
-| &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; |
-| 16-Sep | Tue | Evapo(transpir)ation | Ch. 7 | HW 4 |
-| 18-Sep | Thur | Evapo(transpir)ation | Ch. 7 |     |
-| &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; |
-| 23-Sep | Tue | Streamflow | Ch. 9 | HW 5 |
-| 25-Sep | Thur | Streamflow | Ch. 9 | Project proposal due |
-| &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; |
-| 30-Sep | Tue | Streamflow | Ch. 9 | HW 6 |
-| 2-Oct | Thur | Review | &nbsp; | &nbsp; |
-| &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; |
-| 7-Oct | Tue | Exam #1 | &nbsp; | &nbsp; |
-| 9-Oct | Thur | No class, Fall Break | &nbsp; | &nbsp; |
-| &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; |
-| 14-Oct | Tue | Vadose Zone | Ch. 6 | &nbsp; |
-| 16-Oct | Thur | Vadose Zone | Ch. 6 | &nbsp; |
-| &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; |
-| 21-Oct | Tue | Groundwater | Ch. 8 | HW 7 |
-| 23-Oct | Thur | Groundwater | Ch. 8 | &nbsp; |
-| &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; |
-| 28-Oct | Tue | Groundwater | Ch. 8 | HW 8 |
-| 30-Oct | Thur | Groundwater | Ch. 8 |     |
-| &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; |
-| 4-Nov | Tue | Hydrologic Modeling | Ch.2.9, 9.5-6 | HW 9 |
-| 6-Nov | Thur | Hydrologic Modeling | &nbsp; | &nbsp; |
-| &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; |
-| 11-Nov | Tue | Hydrologic Modeling | &nbsp; | HW 10 |
-| 13-Nov | Thur | Climate change impacts to hydrology | Ch. 10 | &nbsp; |
-| &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; |
-| 18-Nov | Tue | Water Resources Management | Ch. 10 | HW 11 |
-| 20-Nov | Thur | Water Resources Management | &nbsp; | &nbsp; |
-| &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; |
-| 25-Nov | Tue | TBD | &nbsp; | &nbsp; |
-| 27-Nov | Thur | No class, Thanksgiving holiday | &nbsp; | &nbsp; |
-| &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; |
-| 2-Dec | Tue | Project presentations | &nbsp; | Project reports due |
-| 4-Dec | Thur | Project presentations and exam review | &nbsp; |     |
-| &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; |
-| ?   | ?   | Comprehensive Exam | &nbsp; | &nbsp; |
+|| Physical Hydrology Schedule (guaranteed to change)     |                  |                               |
+|---------|------|----------------------------------------|------------------|-------------------------------|
+|| Date    | Day  | Topic                                 | Reading          | Due Dates / Notes             |
+|---------|------|----------------------------------------|------------------|-------------------------------|
+| 19-Aug  | Tue  | Introduction                           | Ch. 1            |                               |
+| 21-Aug  | Thur | Working with Python and Git            |                  | Bring laptop                  |
+| 26-Aug  | Tue  | Hydrologic Concepts                    | Ch. 2            | HW1                           |
+| 28-Aug  | Thur | Climate System                         | Ch. 3            |                               |
+| 2-Sep   | Tue  | Climate System                         | Ch. 3            | HW2                           |
+| 4-Sep   | Thur | Precipitation                          | Ch. 4            |                               |
+| 9-Sep   | Tue  | Precipitation                          | Ch. 4            | HW3                           |
+| 11-Sep  | Thur | Snow and Snowmelt Processes            | Ch. 5            |                               |
+| 16-Sep  | Tue  | Evapo(transpir)ation                   | Ch. 7            | HW4                           |
+| 18-Sep  | Thur | Evapo(transpir)ation                   | Ch. 7            |                               |
+| 23-Sep  | Tue  | Streamflow                             | Ch. 9            | HW5                           |
+| 25-Sep  | Thur | Streamflow                             | Ch. 9            | Project proposal due          |
+| 30-Sep  | Tue  | Streamflow                             | Ch. 9            | HW6                           |
+| 2-Oct   | Thur | Review                                 |                  |                               |
+| 7-Oct   | Tue  | Exam #1                                |                  |                               |
+| 9-Oct   | Thur | No class, Fall Break                   |                  |                               |
+| 14-Oct  | Tue  | Vadose Zone                            | Ch. 6            |                               |
+| 16-Oct  | Thur | Vadose Zone                            | Ch. 6            |                               |
+| 21-Oct  | Tue  | Groundwater                            | Ch. 8            | HW7                           |
+| 23-Oct  | Thur | Groundwater                            | Ch. 8            |                               |
+| 28-Oct  | Tue  | Groundwater                            | Ch. 8            | HW8                           |
+| 30-Oct  | Thur | Groundwater                            | Ch. 8            |                               |
+| 4-Nov   | Tue  | Hydrologic Modeling                    | Ch. 2.9, 9.5–6   | HW9                           |
+| 6-Nov   | Thur | Hydrologic Modeling                    |                  |                               |
+| 11-Nov  | Tue  | Hydrologic Modeling                    |                  | HW10                          |
+| 13-Nov  | Thur | Climate Change Impacts to Hydrology    | Ch. 10           |                               |
+| 18-Nov  | Tue  | Water Resources Management             | Ch. 10           | HW11                          |
+| 20-Nov  | Thur | Water Resources Management             |                  |                               |
+| 25-Nov  | Tue  | TBD                                     |                  |                               |
+| 27-Nov  | Thur | No class, Thanksgiving holiday         |                  |                               |
+| 2-Dec   | Tue  | Project Presentations                  |                  | Project reports due           |
+| 4-Dec   | Thur | Project Presentations and Exam Review  |                  |                               |
+| ?       | ?    | Comprehensive Exam                     |                  |                               |
