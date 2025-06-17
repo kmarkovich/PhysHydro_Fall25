@@ -1,10 +1,17 @@
-**Physical Hydrology / Water and the Earth System**
+#Physical Hydrology / Water and the Earth System
+
 **EPS 522/ENVS 423L**
+
 **Fall 2025**
+
 **Dr. Katie Markovich; <kmarkovich@unm.edu>**
+
 **Class Meets TR 9:30am-10:45am**
+
 **Room 105 Northrop Hall**
+
 **Lab Meets R 2pm-4:50pm**
+
 **Room 115 Northrop Hall**
 
 Office Hours, TR 11am-noon in Northrop 210 or by appointment
