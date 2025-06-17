@@ -89,10 +89,8 @@ Grade
 
 **Credit-hour statement:** This is a three credit-hour course. Class meets for two 75-minute sessions of direct instruction for fifteen weeks during the Fall 2025 semester. Please plan for a minimum of six hours of out-of-class work (or homework, study, assignment completion, and class preparation) each week.
 
-# Schedule
+# Schedule (guaranteed to change)
 
-|| Physical Hydrology Schedule (guaranteed to change)     |                  |                               |
-|---------|------|----------------------------------------|------------------|-------------------------------|
 || Date    | Day  | Topic                                 | Reading          | Due Dates / Notes             |
 |---------|------|----------------------------------------|------------------|-------------------------------|
 | 19-Aug  | Tue  | Introduction                           | Ch. 1            |                               |
