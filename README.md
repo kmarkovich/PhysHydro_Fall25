@@ -91,7 +91,7 @@ Grade
 
 # Schedule (guaranteed to change)
 
-|| Date    | Day  | Topic                                 | Reading          | Due Dates / Notes             |
+| Date    | Day  | Topic                                  | Reading          | Due Dates / Notes             |
 |---------|------|----------------------------------------|------------------|-------------------------------|
 | 19-Aug  | Tue  | Introduction                           | Ch. 1            |                               |
 | 21-Aug  | Thur | Working with Python and Git            |                  | Bring laptop                  |
