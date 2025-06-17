@@ -1,5 +1,5 @@
 # Physical Hydrology / Water in the Earth System
-
+<p style="text-align:center;">
 **EPS 522/ENVS 423L**
 
 **Fall 2025**
@@ -17,6 +17,7 @@
 Office Hours, TR 11am-noon in Northrop 210 or by appointment
 
 3/4 Credit hours
+</p>
 
 ## Course Objective
 
