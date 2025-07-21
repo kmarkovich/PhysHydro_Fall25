@@ -95,19 +95,19 @@ Grade
 | Date    | Day  | Topic                                  | Reading          | Due Dates / Notes             |
 |---------|------|----------------------------------------|------------------|-------------------------------|
 | 19-Aug  | Tue  | Introduction                           | Ch. 1            |                               |
-| 21-Aug  | Thur | Working with Python and Git            |                  | Bring laptop                  |
-| 26-Aug  | Tue  | Hydrologic Concepts                    | Ch. 2            |                               |
+| 21-Aug  | Thur | Hydrologic Concepts                    | Ch. 2            |                               |
+| 26-Aug  | Tue  | Climate System                         | Ch. 3            | HW1                           |
 | 28-Aug  | Thur | Climate System                         | Ch. 3            |                               |
-| 2-Sep   | Tue  | Climate System                         | Ch. 3            | HW1                           |
-| 4-Sep   | Thur | Precipitation                          | Ch. 4            |                               |
-| 9-Sep   | Tue  | Precipitation                          | Ch. 4            | HW2                           |
-| 11-Sep  | Thur | Snow and Snowmelt Processes            | Ch. 5            |                               |
-| 16-Sep  | Tue  | Evapo(transpir)ation                   | Ch. 7            | HW3                           |
+| 2-Sep   | Tue  | Precipitation                          | Ch. 4            | HW2                           |
+| 4-Sep   | Thur | Precipitation                          | Ch. 4            | Project Proposal Due          |
+| 9-Sep   | Tue  | Snow and Snowmelt Processes            | Ch. 5            | HW3                           |
+| 11-Sep  | Thur | Evapo(transpir)ation                   | Ch. 7            |                               |
+| 16-Sep  | Tue  | Evapo(transpir)ation                   | Ch. 7            | HW4                           |
 | 18-Sep  | Thur | Evapo(transpir)ation                   | Ch. 7            |                               |
-| 23-Sep  | Tue  | Streamflow                             | Ch. 9            | HW4                           |
-| 25-Sep  | Thur | Streamflow                             | Ch. 9            | Project proposal due          |
+| 23-Sep  | Tue  | Streamflow                             | Ch. 9            | HW5                           |
+| 25-Sep  | Thur | Streamflow                             | Ch. 9            |                               |
 | 30-Sep  | Tue  | Streamflow                             | Ch. 9            | HW5                           |
-| 2-Oct   | Thur | Review                                 |                  |                               |
+| 2-Oct   | Thur | Review                                 |                  | Project Lit. Review Due       |
 | 7-Oct   | Tue  | Exam #1                                |                  |                               |
 | 9-Oct   | Thur | No class, Fall Break                   |                  |                               |
 | 14-Oct  | Tue  | Vadose Zone                            | Ch. 6            |                               |
@@ -122,8 +122,8 @@ Grade
 | 13-Nov  | Thur | Climate Change Impacts to Hydrology    | Ch. 10           |                               |
 | 18-Nov  | Tue  | Water Resources Management             | Ch. 10           | HW10                          |
 | 20-Nov  | Thur | Water Resources Management             |                  |                               |
-| 25-Nov  | Tue  | TBD                                     |                  |                               |
+| 25-Nov  | Tue  | TBD                                    |                  |                               |
 | 27-Nov  | Thur | No class, Thanksgiving holiday         |                  |                               |
-| 2-Dec   | Tue  | Project Presentations                  |                  | Project reports due           |
+| 2-Dec   | Tue  | Project Presentations                  |                  | Project Tech Memo due         |
 | 4-Dec   | Thur | Project Presentations and Exam Review  |                  |                               |
 | ?       | ?    | Comprehensive Exam                     |                  |                               |
