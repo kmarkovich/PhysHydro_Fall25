@@ -35,7 +35,7 @@ To explain, diagnose, and predict the physical processes that govern: 1) the spa
 
 **Fall Break: October 9-10**
 
-**Term Project Due: December 4**
+**Term Project Due: December 2**
 
 **Final Exam: Week of December 8**
 
