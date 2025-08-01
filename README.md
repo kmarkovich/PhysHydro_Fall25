@@ -35,30 +35,31 @@ To explain, diagnose, and predict the physical processes that govern: 1) the spa
 
 **Fall Break: October 9-10**
 
-**Term Project Due: December 4**
+**Term Project Due: December 2**
 
 **Final Exam: Week of December 8**
 
 ## Procedures for Completing Coursework
 
-The homeworks will be focused on analyzing real-world hydrological data using python and will be assigned approximately once per week, and each assignment will be due the following week. If you miss a homework deadline, you can still do the assignment for 50% credit the following week. No credit will be given if you are more than one week late.
+The homeworks will be focused on testing and reinforcing concepts and methods from the lectures and will be assigned approximately once per week, and each assignment will be due the following week.  If you miss a homework deadline, you can still turn in the assignment up to 5 days after the due date, with an additional 10% taken off for each day.  No credit will be given if you are more than 5 days late.
 
-There will be 2 exams, one on **October 7<sup>th</sup>** and a final exam during the week of **December 8**. The first exam will the first half of the semester, while the final exam will be comprehensive.
+For 423L students, the Thursday lab exercises will involve analyzing real-world hydrological data and getting hands-on experience with software and tools. Lab exercises will be turned in, in person, at the end of the lab and given a completion grade. The top 10 lab exercises will go towards the lab portion of your grade, so as long as you attend and complete 10, this will be an easy 100%. With prior notification to the TA, you can submit a late lab for full credit for up to one week.
 
-A term paper on any topic in physical hydrology will be due on **December 4.** Details on the term paper requirements will be provided early in the semester.
+There will be 2 exams, one on October 7th and a final exam during the week of December 8.  The first exam will the first half of the semester, while the final exam will be comprehensive. You can bring a hand-written “cheat” sheet (8.5x11” printer paper) to both exams.
+
+For 522 students, a term project on a real-world hydrologic system will be due on December 2 with in-class presentations on the project that same week.  Details on the term project requirements will be provided early in the semester.
 
 If you anticipate a difficulty meeting a deadline, please let me know as soon as you know, preferably at least a week in advance.
 
 Unless otherwise indicated, all work must be submitted online in the class’s Canvas web site. If you have a difficulty using a tool to complete work, notify me as soon as possible.
 
-For students in the undergraduate 4-credit section, the labs meet weekly on Thursdays and is primarily a recitation to be able to work with the TA and your classmates on the homework assignments. All students are welcome to attend the lab for additional assistance with the homeworks.
-
 # Grading Procedures
 
 400 Level
 
-- Homework will constitute 60% of your total grade
+- Homework will constitute 40% of your total grade
 - Each exam will constitute 20% of your total grade
+- Lab exercises will constitue 20% of your total grade
 
 500 Level
 
@@ -95,19 +96,19 @@ Grade
 | Date    | Day  | Topic                                  | Reading          | Due Dates / Notes             |
 |---------|------|----------------------------------------|------------------|-------------------------------|
 | 19-Aug  | Tue  | Introduction                           | Ch. 1            |                               |
-| 21-Aug  | Thur | Working with Python and Git            |                  | Bring laptop                  |
-| 26-Aug  | Tue  | Hydrologic Concepts                    | Ch. 2            |                               |
-| 28-Aug  | Thur | Climate System                         | Ch. 3            |                               |
-| 2-Sep   | Tue  | Climate System                         | Ch. 3            | HW1                           |
-| 4-Sep   | Thur | Precipitation                          | Ch. 4            |                               |
-| 9-Sep   | Tue  | Precipitation                          | Ch. 4            | HW2                           |
-| 11-Sep  | Thur | Snow and Snowmelt Processes            | Ch. 5            |                               |
-| 16-Sep  | Tue  | Evapo(transpir)ation                   | Ch. 7            | HW3                           |
-| 18-Sep  | Thur | Evapo(transpir)ation                   | Ch. 7            |                               |
-| 23-Sep  | Tue  | Streamflow                             | Ch. 9            | HW4                           |
-| 25-Sep  | Thur | Streamflow                             | Ch. 9            | Project proposal due          |
-| 30-Sep  | Tue  | Streamflow                             | Ch. 9            | HW5                           |
-| 2-Oct   | Thur | Review                                 |                  |                               |
+| 21-Aug  | Thur | Hydrologic Concepts                    | Ch. 2            |                               |
+| 26-Aug  | Tue  | Climate System                         | Ch. 3            |                               |
+| 28-Aug  | Thur | Climate System                         | Ch. 3            | HW1                           |
+| 2-Sep   | Tue  | Precipitation                          | Ch. 4            | Project Proposal Due          |
+| 4-Sep   | Thur | Precipitation                          | Ch. 4            | HW2                           |
+| 9-Sep   | Tue  | Snow and Snowmelt Processes            | Ch. 5            |                               |
+| 11-Sep  | Thur | Evapo(transpir)ation                   | Ch. 7            | HW3                           |
+| 16-Sep  | Tue  | Evapo(transpir)ation                   | Ch. 7            |                               |
+| 18-Sep  | Thur | Evapo(transpir)ation                   | Ch. 7            | HW4                           |
+| 23-Sep  | Tue  | Streamflow                             | Ch. 9            |                               |
+| 25-Sep  | Thur | Streamflow                             | Ch. 9            | HW5                           |
+| 30-Sep  | Tue  | Streamflow                             | Ch. 9            |                               |
+| 2-Oct   | Thur | Review                                 |                  | Project Lit. Review Due       |
 | 7-Oct   | Tue  | Exam #1                                |                  |                               |
 | 9-Oct   | Thur | No class, Fall Break                   |                  |                               |
 | 14-Oct  | Tue  | Vadose Zone                            | Ch. 6            |                               |
@@ -122,8 +123,8 @@ Grade
 | 13-Nov  | Thur | Climate Change Impacts to Hydrology    | Ch. 10           |                               |
 | 18-Nov  | Tue  | Water Resources Management             | Ch. 10           | HW10                          |
 | 20-Nov  | Thur | Water Resources Management             |                  |                               |
-| 25-Nov  | Tue  | TBD                                     |                  |                               |
+| 25-Nov  | Tue  | TBD                                    |                  |                               |
 | 27-Nov  | Thur | No class, Thanksgiving holiday         |                  |                               |
-| 2-Dec   | Tue  | Project Presentations                  |                  | Project reports due           |
+| 2-Dec   | Tue  | Project Presentations                  |                  | Project Tech Memo Due         |
 | 4-Dec   | Thur | Project Presentations and Exam Review  |                  |                               |
 | ?       | ?    | Comprehensive Exam                     |                  |                               |
