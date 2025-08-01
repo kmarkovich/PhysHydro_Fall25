@@ -1,24 +1,28 @@
-name: Convert Markdown to Word
+name: Convert MD to DOCX and Commit
 
 on:
   push:
     branches:
-      - main # Or your desired branch
+      - main # Or your default branch
+    paths:
+      - 'README.md' # Trigger only when the Markdown file changes
 
 jobs:
-  convert:
+  convert_and_commit:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write # Grant write permission to commit changes
+
     steps:
       - uses: actions/checkout@v4
-     
-      - name: Install Pandoc
-        run: sudo apt-get update && sudo apt-get install -y pandoc
 
-      - name: Convert README.md to DOCX
-        run: |
-          pandoc -f markdown -t docx -o syllabus.docx README.md
-
-      - uses: actions/upload-artifact@v4
+      - name: Convert Markdown to DOCX
+        uses: pandoc/pandoc-action-example@master
         with:
-          name: Converted Word Document
-          path: syllabus.docx
+          args: "-f markdown -t docx -o syllabus.docx README.md"
+
+      - name: Commit generated DOCX
+        uses: stefanzweifel/git-auto-commit-action@v4
+        with:
+          commit_message: "Auto-generated DOCX from Markdown"
+          file_pattern: "syllabus.docx"
