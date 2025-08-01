@@ -5,6 +5,7 @@
 **Fall 2025**
 
 **Dr. Katie Markovich; <kmarkovich@unm.edu>**
+**TA: Aidan Dunne; <adunne@unm.edu>**
 
 **Class Meets TR 9:30am-10:45am**
 
