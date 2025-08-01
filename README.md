@@ -124,7 +124,7 @@ Grade
 | 13-Nov  | Thur | Climate Change Impacts to Hydrology    | Ch. 10           |                               |
 | 18-Nov  | Tue  | Water Resources Management             | Ch. 10           | HW10                          |
 | 20-Nov  | Thur | Water Resources Management             |                  |                               |
-| 25-Nov  | Tue  | TBD                                    |                  |                               |
+| 25-Nov  | Tue  | No class, Thanksgiving holiday         |                  |                               |
 | 27-Nov  | Thur | No class, Thanksgiving holiday         |                  |                               |
 | 2-Dec   | Tue  | Project Presentations                  |                  | Project Tech Memo Due         |
 | 4-Dec   | Thur | Project Presentations and Exam Review  |                  |                               |
