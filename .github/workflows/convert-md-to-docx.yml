@@ -11,10 +11,8 @@ jobs:
     steps:
       - uses: actions/checkout@v4
      
-     - name: Install pandoc
-        run: | 
-          sudo apt-get update && sudo apt-get install -y pandoc
-
+      - name: Install Pandoc
+        run: sudo apt-get update && sudo apt-get install -y pandoc
 
       - name: Convert README.md to DOCX
         run: |
