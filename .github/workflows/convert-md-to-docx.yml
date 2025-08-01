@@ -17,3 +17,8 @@ jobs:
       - name: Convert README.md to DOCX
         run: |
           pandoc -f markdown -t docx -o syllabus.docx README.md
+
+      - uses: actions/upload-artifact@v4
+        with:
+          name: Converted Word Document
+          path: syllabus.docx
