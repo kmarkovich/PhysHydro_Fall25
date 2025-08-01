@@ -26,7 +26,7 @@ To explain, diagnose, and predict the physical processes that govern: 1) the spa
 
 # Textbook
 
-**Required:** Physical Hydrology, by S. Lawrence Dingman
+**Required:** Physical Hydrology by S. Lawrence Dingman
 
 # Coursework and Participation
 
