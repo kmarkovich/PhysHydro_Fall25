@@ -1,0 +1,21 @@
+name: Convert Markdown to Word
+
+on:
+  push:
+    branches:
+      - main # Or your desired branch
+
+jobs:
+  convert:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Convert README.md to DOCX
+        run: |
+          pandoc -f markdown -t docx -o syllabus.docx README.md
+
+      - uses: actions/upload-artifact@v3
+        with:
+          name: Word Document
+          path: syllabus.docx
