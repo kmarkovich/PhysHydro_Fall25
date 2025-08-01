@@ -16,10 +16,12 @@ jobs:
     steps:
       - uses: actions/checkout@v4
 
-      - name: Convert Markdown to DOCX
-        uses: pandoc/pandoc-action-example@master
-        with:
-          args: "-f markdown -t docx -o syllabus.docx README.md"
+      - name: Install Pandoc
+        run: sudo apt-get update && sudo apt-get install -y pandoc
+
+      - name: Convert README.md to DOCX
+        run: |
+          pandoc -f markdown -t docx -o syllabus.docx README.md
 
       - name: Commit generated DOCX
         uses: stefanzweifel/git-auto-commit-action@v4
