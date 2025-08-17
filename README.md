@@ -44,7 +44,7 @@ To explain, diagnose, and predict the physical processes that govern: 1) the spa
 
 The homeworks will be focused on testing and reinforcing concepts and methods from the lectures and will be assigned approximately once per week, and each assignment will be due the following week.  If you miss a homework deadline, you can still turn in the assignment up to 5 days after the due date, with an additional 10% taken off for each day.  No credit will be given if you are more than 5 days late.
 
-For 423L students, the Thursday lab exercises will involve analyzing real-world hydrological data and getting hands-on experience with software and tools. Lab exercises will be turned in, in person, at the end of the lab and given a completion grade. The top 10 lab exercises will go towards the lab portion of your grade, so as long as you attend and complete 10, this will be an easy 100%. With prior notification to the TA, you can submit a late lab for full credit for up to one week.
+For 423L students, the Thursday lab will serve as an opportunity to work collaboratively on the homework problem sets with the TA available for help. The lab will also include some exercises that involve analyzing real-world hydrological data and getting hands-on experience with software and tools.
 
 There will be 2 exams, one on October 7th and a final exam during the week of December 8.  The first exam will the first half of the semester, while the final exam will be comprehensive. You can bring a hand-written “cheat” sheet (8.5x11” printer paper) to both exams.
 
@@ -58,9 +58,8 @@ Unless otherwise indicated, all work must be submitted online in the class’s C
 
 400 Level
 
-- Homework will constitute 40% of your total grade
-- Each exam will constitute 20% of your total grade
-- Lab exercises will constitue 20% of your total grade
+- Homework will constitute 50% of your total grade
+- Each exam will constitute 25% of your total grade
 
 500 Level
 
