@@ -101,13 +101,13 @@ Grade
 | 28-Aug  | Thur | Climate System                         | Ch. 3            | HW1                           |
 | 2-Sep   | Tue  | Precipitation                          | Ch. 4            | Project Proposal Due          |
 | 4-Sep   | Thur | Precipitation                          | Ch. 4            | HW2                           |
-| 9-Sep   | Tue  | Snow and Snowmelt Processes            | Ch. 5            |                               |
+| 9-Sep   | Tue  | Snow/Snowmelt (guest lecture)          | Ch. 5            |                               |
 | 11-Sep  | Thur | Evapo(transpir)ation                   | Ch. 7            | HW3                           |
 | 16-Sep  | Tue  | Evapo(transpir)ation                   | Ch. 7            |                               |
-| 18-Sep  | Thur | Evapo(transpir)ation                   | Ch. 7            | HW4                           |
+| 18-Sep  | Thur | Streamflow                             | Ch. 9            | HW4                           |
 | 23-Sep  | Tue  | Streamflow                             | Ch. 9            |                               |
-| 25-Sep  | Thur | Streamflow                             | Ch. 9            | HW5                           |
-| 30-Sep  | Tue  | Streamflow                             | Ch. 9            |                               |
+| 25-Sep  | Thur | Evapo(transpir)ation (guest lecture)   | Ch. 9            | HW5                           |
+| 30-Sep  | Tue  | Streamflow (guest lecture)             |                  |                               |
 | 2-Oct   | Thur | Review                                 |                  | Project Lit. Review Due       |
 | 7-Oct   | Tue  | Exam #1                                |                  |                               |
 | 9-Oct   | Thur | No class, Fall Break                   |                  |                               |
