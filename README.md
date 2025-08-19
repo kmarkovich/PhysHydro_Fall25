@@ -89,7 +89,7 @@ Grade
 
 **Student Support**: Confidential services for students are available at LoboRESPECT Advocacy Center, Women's Resource Center, and the LGBTQ Resource Center. The Women’s Resource Center supports all students, including those who are pregnant or are parents. UNM’s lactation stations are marked on the UNM campus map.
 
-**Credit-hour statement:** This is a three credit-hour course. Class meets for two 75-minute sessions of direct instruction for fifteen weeks during the Fall 2025 semester. Please plan for a minimum of six hours of out-of-class work (or homework, study, assignment completion, and class preparation) each week.
+**Credit-hour statement:** EPS 522 is a three credit-hour course. Class meets for two 75-minute sessions of direct instruction for fifteen weeks during the Fall 2025 semester. ENVS 423L is a four credit-hour course, where on top of the two 75-minute sessions of direct instruction, there is a two hour and 50-minute lab each week. Please plan for a minimum of six hours of out-of-class work (or homework, study, assignment completion, and class preparation) each week.
 
 # Schedule (guaranteed to change)
 
@@ -113,12 +113,12 @@ Grade
 | 9-Oct   | Thur | No class, Fall Break                   |                  |                               |
 | 14-Oct  | Tue  | Vadose Zone                            | Ch. 6            |                               |
 | 16-Oct  | Thur | Vadose Zone                            | Ch. 6            |                               |
-| 21-Oct  | Tue  | Groundwater                            | Ch. 8            | HW6                           |
+| 21-Oct  | Tue  | Vadose Zone (guest lecture)            | Ch. 6            | HW6                           |
 | 23-Oct  | Thur | Groundwater                            | Ch. 8            |                               |
 | 28-Oct  | Tue  | Groundwater                            | Ch. 8            | HW7                           |
 | 30-Oct  | Thur | Groundwater                            | Ch. 8            |                               |
-| 4-Nov   | Tue  | Hydrologic Modeling                    | Ch. 2.9, 9.5–6   | HW8                           |
-| 6-Nov   | Thur | Hydrologic Modeling                    |                  |                               |
+| 4-Nov   | Tue  | Groundwater                            |                  | HW8                           |
+| 6-Nov   | Thur | Hydrologic Modeling                    | Ch. 2.9, 9.5–6   |                               |
 | 11-Nov  | Tue  | Hydrologic Modeling                    |                  | HW9                           |
 | 13-Nov  | Thur | Climate Change Impacts to Hydrology    | Ch. 10           |                               |
 | 18-Nov  | Tue  | Water Resources Management             | Ch. 10           | HW10                          |
