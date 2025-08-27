@@ -108,9 +108,9 @@ Grade
 | 19-Aug  | Tue  | Introduction                           | Ch. 1            |                               |
 | 21-Aug  | Thur | Hydrologic Concepts                    | Ch. 2            |                               |
 | 26-Aug  | Tue  | Climate System                         | Ch. 3            |                               |
-| 28-Aug  | Thur | Climate System                         | Ch. 3            | HW1                           |
-| 2-Sep   | Tue  | Precipitation                          | Ch. 4            | Project Proposal Due          |
-| 4-Sep   | Thur | Precipitation                          | Ch. 4            | HW2                           |
+| 28-Aug  | Thur | Climate System                         | Ch. 3            |                               |
+| 2-Sep   | Tue  | Precipitation                          | Ch. 4            | HW1 & Project Proposal Due    |
+| 4-Sep   | Thur | Precipitation (guest speaker)          | Ch. 4            | HW2                           |
 | 9-Sep   | Tue  | Snow/Snowmelt (guest lecture)          | Ch. 5            |                               |
 | 11-Sep  | Thur | Evapo(transpir)ation                   | Ch. 7            | HW3                           |
 | 16-Sep  | Tue  | Evapo(transpir)ation                   | Ch. 7            |                               |
