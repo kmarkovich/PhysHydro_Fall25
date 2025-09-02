@@ -114,27 +114,27 @@ Grade
 | 9-Sep   | Tue  | Snow/Snowmelt (guest lecture)          | Ch. 5            |                               |
 | 11-Sep  | Thur | Evapo(transpir)ation                   | Ch. 7            | HW3                           |
 | 16-Sep  | Tue  | Evapo(transpir)ation                   | Ch. 7            |                               |
-| 18-Sep  | Thur | Streamflow                             | Ch. 9            | HW4                           |
-| 23-Sep  | Tue  | Streamflow                             | Ch. 9            |                               |
-| 25-Sep  | Thur | Evapo(transpir)ation (guest lecture)   | Ch. 9            | HW5                           |
-| 30-Sep  | Tue  | Streamflow (guest lecture)             |                  |                               |
+| 18-Sep  | Thur | Streamflow                             | Ch. 9            |                               |
+| 23-Sep  | Tue  | Streamflow                             | Ch. 9            | HW4                           |
+| 25-Sep  | Thur | Evapo(transpir)ation (guest lecture)   | Ch. 9            |                               |
+| 30-Sep  | Tue  | Streamflow (guest lecture)             |                  | HW5                           |
 | 2-Oct   | Thur | Review                                 |                  | Project Lit. Review Due       |
 | 7-Oct   | Tue  | Exam #1                                |                  |                               |
 | 9-Oct   | Thur | No class, Fall Break                   |                  |                               |
 | 14-Oct  | Tue  | Vadose Zone                            | Ch. 6            |                               |
 | 16-Oct  | Thur | Vadose Zone                            | Ch. 6            |                               |
-| 21-Oct  | Tue  | Vadose Zone (guest lecture)            | Ch. 6            | HW6                           |
-| 23-Oct  | Thur | Groundwater                            | Ch. 8            |                               |
-| 28-Oct  | Tue  | Groundwater                            | Ch. 8            | HW7                           |
+| 21-Oct  | Tue  | Vadose Zone (guest lecture)            | Ch. 6            |                               |
+| 23-Oct  | Thur | Groundwater                            | Ch. 8            | HW6                           |
+| 28-Oct  | Tue  | Groundwater                            | Ch. 8            |                               |
 | 30-Oct  | Thur | Groundwater                            | Ch. 8            |                               |
-| 4-Nov   | Tue  | Groundwater                            |                  | HW8                           |
+| 4-Nov   | Tue  | Groundwater                            |                  | HW7                           |
 | 6-Nov   | Thur | Hydrologic Modeling                    | Ch. 2.9, 9.5–6   |                               |
-| 11-Nov  | Tue  | Hydrologic Modeling                    |                  | HW9                           |
-| 13-Nov  | Thur | Climate Change Impacts to Hydrology    | Ch. 10           |                               |
-| 18-Nov  | Tue  | Water Resources Management             | Ch. 10           | HW10                          |
+| 11-Nov  | Tue  | Hydrologic Modeling                    |                  |                               |
+| 13-Nov  | Thur | Climate Change Impacts to Hydrology    | Ch. 10           | HW8                           |
+| 18-Nov  | Tue  | Water Resources Management             | Ch. 10           |                               |
 | 20-Nov  | Thur | Water Resources Management             |                  |                               |
 | 25-Nov  | Tue  | No class, Thanksgiving holiday         |                  |                               |
 | 27-Nov  | Thur | No class, Thanksgiving holiday         |                  |                               |
 | 2-Dec   | Tue  | Project Presentations                  |                  | Project Tech Memo Due         |
-| 4-Dec   | Thur | Project Presentations and Exam Review  |                  |                               |
-| ?       | ?    | Comprehensive Exam                     |                  |                               |
+| 4-Dec   | Thur | Project Presentations and Exam Review  |                  | HW9                           |
+| 9-Dec   | Tue  | Comprehensive Exam @ 7:30-9:30 am      |                  |                               |
