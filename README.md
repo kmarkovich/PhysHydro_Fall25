@@ -113,16 +113,16 @@ Grade
 | 4-Sep   | Thur | Precipitation (guest speaker)          | Ch. 4            | HW2                           |
 | 9-Sep   | Tue  | Snow/Snowmelt (guest lecture)          | Ch. 5            |                               |
 | 11-Sep  | Thur | Evapo(transpir)ation                   | Ch. 7            |                               |
-| 16-Sep  | Tue  | Evapo(transpir)ation                   | Ch. 7            | HW3                           |
-| 18-Sep  | Thur | Streamflow                             | Ch. 9            |                               |
-| 23-Sep  | Tue  | Streamflow                             | Ch. 9            | HW4                           |
-| 25-Sep  | Thur | Evapo(transpir)ation (guest lecture)   | Ch. 9            | No lab                        |
-| 30-Sep  | Tue  | Streamflow (guest lecture)             |                  | HW5                           |
-| 2-Oct   | Thur | Review                                 |                  | Project Lit. Review Due       |
+| 16-Sep  | Tue  | No class                               |                  | HW3                           |
+| 18-Sep  | Thur | Evapo(transpir)ation                   | Ch. 7            |                               |
+| 23-Sep  | Tue  | Streamflow                             | Ch. 9            |                               |
+| 25-Sep  | Thur | Evapo(transpir)ation (guest lecture)   |                  | HW4, No lab                   |
+| 30-Sep  | Tue  | Streamflow                             | Ch. 9            |                               |
+| 2-Oct   | Thur | Streamflow (guest lecture) & Review    |                  | HW5 (due Friday)              |
 | 7-Oct   | Tue  | Exam #1                                |                  |                               |
 | 9-Oct   | Thur | No class, Fall Break                   |                  |                               |
 | 14-Oct  | Tue  | Vadose Zone                            | Ch. 6            |                               |
-| 16-Oct  | Thur | Vadose Zone                            | Ch. 6            |                               |
+| 16-Oct  | Thur | Vadose Zone                            | Ch. 6            | Project Lit. Review Due       |
 | 21-Oct  | Tue  | Vadose Zone (guest lecture)            | Ch. 6            |                               |
 | 23-Oct  | Thur | Groundwater                            | Ch. 8            | HW6                           |
 | 28-Oct  | Tue  | Groundwater                            | Ch. 8            |                               |
@@ -133,7 +133,7 @@ Grade
 | 13-Nov  | Thur | Climate Change Impacts to Hydrology    | Ch. 10           | HW8                           |
 | 18-Nov  | Tue  | Water Resources Management             | Ch. 10           |                               |
 | 20-Nov  | Thur | Water Resources Management             |                  |                               |
-| 25-Nov  | Tue  | No class, Thanksgiving holiday         |                  |                               |
+| 25-Nov  | Tue  | Optional: work on 522 Term Projects    |                  |                               |
 | 27-Nov  | Thur | No class, Thanksgiving holiday         |                  |                               |
 | 2-Dec   | Tue  | Project Presentations                  |                  | Project Tech Memo Due         |
 | 4-Dec   | Thur | Project Presentations and Exam Review  |                  | HW9                           |
