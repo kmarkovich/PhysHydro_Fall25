@@ -15,7 +15,8 @@
 
 **Room 115 Northrop Hall**
 
-Office Hours, TR 11am-noon in Northrop 210 or by appointment
+Instructor Office Hours, TR 11am-noon in Northrop 210 or by appointment
+TA Office Hours, T 10:45-noon and W 12:30-2 in Northrop 114
 
 3/4 Credit hours
 </p>
