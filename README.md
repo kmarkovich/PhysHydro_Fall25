@@ -119,11 +119,11 @@ Grade
 | 23-Sep  | Tue  | Streamflow                             | Ch. 9            |                               |
 | 25-Sep  | Thur | Evapo(transpir)ation (guest lecture)   |                  | HW4, No lab                   |
 | 30-Sep  | Tue  | Streamflow                             | Ch. 9            |                               |
-| 2-Oct   | Thur | Streamflow (guest lecture) & Review    |                  | HW5 (due Friday)              |
+| 2-Oct   | Thur | Streamflow (guest lecture) & Review    |                  |                               |
 | 7-Oct   | Tue  | Exam #1                                |                  |                               |
 | 9-Oct   | Thur | No class, Fall Break                   |                  |                               |
 | 14-Oct  | Tue  | Vadose Zone                            | Ch. 6            |                               |
-| 16-Oct  | Thur | Vadose Zone                            | Ch. 6            | Project Lit. Review Due       |
+| 16-Oct  | Thur | Vadose Zone                            | Ch. 6            | HW5, Project Lit. Review Due  |
 | 21-Oct  | Tue  | Vadose Zone (guest lecture)            | Ch. 6            |                               |
 | 23-Oct  | Thur | Groundwater                            | Ch. 8            | HW6                           |
 | 28-Oct  | Tue  | Groundwater                            | Ch. 8            |                               |
