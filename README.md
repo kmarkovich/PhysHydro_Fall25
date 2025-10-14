@@ -123,16 +123,16 @@ Grade
 | 7-Oct   | Tue  | Exam #1                                |                  |                               |
 | 9-Oct   | Thur | No class, Fall Break                   |                  |                               |
 | 14-Oct  | Tue  | Vadose Zone                            | Ch. 6            |                               |
-| 16-Oct  | Thur | Vadose Zone                            | Ch. 6            | HW5, Project Lit. Review Due  |
-| 21-Oct  | Tue  | Vadose Zone (guest lecture)            | Ch. 6            |                               |
-| 23-Oct  | Thur | Groundwater                            | Ch. 8            | HW6                           |
-| 28-Oct  | Tue  | Groundwater                            | Ch. 8            |                               |
+| 16-Oct  | Thur | Vadose Zone                            | Ch. 6            | Project Lit. Review Due       |
+| 21-Oct  | Tue  | Vadose Zone (guest lecture)            | Ch. 6            | HW5                           |
+| 23-Oct  | Thur | Groundwater                            | Ch. 8            |                               |
+| 28-Oct  | Tue  | Groundwater                            | Ch. 8            | HW6                           |
 | 30-Oct  | Thur | Spooky Topics in Hydrology             | Ch. 8            |                               |
-| 4-Nov   | Tue  | Groundwater (guest lecture)            |                  | HW7                           |
-| 6-Nov   | Thur | Hydrologic Modeling                    | Ch. 2.9, 9.5–6   |                               |
+| 4-Nov   | Tue  | Groundwater (guest lecture)            |                  |                               |
+| 6-Nov   | Thur | Hydrologic Modeling                    | Ch. 2.9, 9.5–6   | HW7                           |
 | 11-Nov  | Tue  | Hydrologic Modeling                    |                  |                               |
-| 13-Nov  | Thur | Climate Change Impacts to Hydrology    | Ch. 10           | HW8                           |
-| 18-Nov  | Tue  | Water Resources Management             | Ch. 10           |                               |
+| 13-Nov  | Thur | Climate Change Impacts to Hydrology    | Ch. 10           |                               |
+| 18-Nov  | Tue  | Water Resources Management             | Ch. 10           | HW8                           |
 | 20-Nov  | Thur | Water Resources Management             |                  |                               |
 | 25-Nov  | Tue  | Optional: work on 522 Term Projects    |                  |                               |
 | 27-Nov  | Thur | No class, Thanksgiving holiday         |                  |                               |
