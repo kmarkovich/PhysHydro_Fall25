@@ -127,7 +127,7 @@ Grade
 | 21-Oct  | Tue  | Vadose Zone (guest lecture)            | Ch. 6            | HW5                           |
 | 23-Oct  | Thur | Groundwater                            | Ch. 8            |                               |
 | 28-Oct  | Tue  | Groundwater                            | Ch. 8            | HW6                           |
-| 30-Oct  | Thur | Spooky Topics in Hydrology             | Ch. 8            |                               |
+| 30-Oct  | Thur | Groundwater                            | Ch. 8            |                               |
 | 4-Nov   | Tue  | Groundwater (guest lecture)            |                  |                               |
 | 6-Nov   | Thur | Hydrologic Modeling                    | Ch. 2.9, 9.5–6   | HW7                           |
 | 11-Nov  | Tue  | Hydrologic Modeling                    |                  |                               |
@@ -138,4 +138,4 @@ Grade
 | 27-Nov  | Thur | No class, Thanksgiving holiday         |                  |                               |
 | 2-Dec   | Tue  | Project Presentations                  |                  | Project Tech Memo Due         |
 | 4-Dec   | Thur | Project Presentations and Exam Review  |                  | HW9                           |
-| 9-Dec   | Tue  | Comprehensive Exam @ 7:30-9:30 am      |                  |                               |
+| 9-Dec   | Tue  | Final Exam @ 7:30-9:30 am              |                  |                               |
