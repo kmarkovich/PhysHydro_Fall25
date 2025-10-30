@@ -124,13 +124,13 @@ Grade
 | 9-Oct   | Thur | No class, Fall Break                   |                  |                               |
 | 14-Oct  | Tue  | Vadose Zone                            | Ch. 6            |                               |
 | 16-Oct  | Thur | Vadose Zone                            | Ch. 6            | Project Lit. Review Due       |
-| 21-Oct  | Tue  | Vadose Zone (guest lecture)            | Ch. 6            | HW5                           |
-| 23-Oct  | Thur | Groundwater                            | Ch. 8            |                               |
-| 28-Oct  | Tue  | Groundwater                            | Ch. 8            | HW6                           |
+| 21-Oct  | Tue  | Vadose Zone (guest lecture)            | Ch. 6            |                               |
+| 23-Oct  | Thur | Groundwater                            | Ch. 8            | HW5                           |
+| 28-Oct  | Tue  | Groundwater                            | Ch. 8            |                               |
 | 30-Oct  | Thur | Groundwater                            | Ch. 8            |                               |
-| 4-Nov   | Tue  | Groundwater (guest lecture)            |                  |                               |
-| 6-Nov   | Thur | Hydrologic Modeling                    | Ch. 2.9, 9.5–6   | HW7                           |
-| 11-Nov  | Tue  | Hydrologic Modeling                    |                  |                               |
+| 4-Nov   | Tue  | Groundwater (guest lecture)            |                  | HW6                           |
+| 6-Nov   | Thur | Hydrologic Modeling                    | Ch. 2.9, 9.5–6   |                               |
+| 11-Nov  | Tue  | Hydrologic Modeling                    |                  | HW7                           |
 | 13-Nov  | Thur | Climate Change Impacts to Hydrology    | Ch. 10           |                               |
 | 18-Nov  | Tue  | Water Resources Management             | Ch. 10           | HW8                           |
 | 20-Nov  | Thur | Water Resources Management             |                  |                               |
