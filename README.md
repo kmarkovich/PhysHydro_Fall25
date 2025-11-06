@@ -129,12 +129,12 @@ Grade
 | 28-Oct  | Tue  | Groundwater                            | Ch. 8            |                               |
 | 30-Oct  | Thur | Groundwater                            | Ch. 8            |                               |
 | 4-Nov   | Tue  | Groundwater (guest lecture)            |                  | HW6                           |
-| 6-Nov   | Thur | Hydrologic Modeling                    | Ch. 2.9, 9.5–6   |                               |
-| 11-Nov  | Tue  | Hydrologic Modeling                    |                  | HW7                           |
-| 13-Nov  | Thur | Climate Change Impacts to Hydrology    | Ch. 10           |                               |
-| 18-Nov  | Tue  | Water Resources Management             | Ch. 10           | HW8                           |
-| 20-Nov  | Thur | Water Resources Management             |                  |                               |
-| 25-Nov  | Tue  | Optional: work on 522 Term Projects    |                  |                               |
+| 6-Nov   | Thur | Spooky Topics in Hydrology             |                  |                               |
+| 11-Nov  | Tue  | No class                               |                  |                               |
+| 13-Nov  | Thur | Climate Change Impacts to Hydrology    |                  | HW7                           |
+| 18-Nov  | Tue  | Hydrologic Modeling                    |                  |                               |
+| 20-Nov  | Thur | Water Resources Management             | Ch. 10           |                               |
+| 25-Nov  | Tue  | Optional: work on 522 Term Projects    |                  | HW8                           |
 | 27-Nov  | Thur | No class, Thanksgiving holiday         |                  |                               |
 | 2-Dec   | Tue  | Project Presentations                  |                  | Project Tech Memo Due         |
 | 4-Dec   | Thur | Project Presentations and Exam Review  |                  | HW9                           |
