@@ -64,9 +64,9 @@ Unless otherwise indicated, all work must be submitted online in the class’s C
 
 500 Level
 
-- Homework will constitute 40% of your total grade
+- Homework will constitute 30% of your total grade
 - Each exam will constitute 20% of your total grade
-- The term project will constitute 20% of your total grade
+- The term project will constitute 30% of your total grade
 
 Grading Scale
 
